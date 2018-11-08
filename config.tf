@@ -153,7 +153,7 @@ variable "openshift_azure_node_prep_script" {
 variable "openshift_azure_deploy_openshift_script" {
   type        = "string"
   description = "URL for Deploy Openshift script"
-  default     = "deployOpenShift.sh"
+  default     = "https://github.com/gjergjidojcegit/terraform-openshift-version1.0/blob/master/scripts/deployOpenShift.sh"
 }
 
 variable "openshift_ansible_url" {
