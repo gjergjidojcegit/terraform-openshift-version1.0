@@ -1,8 +1,8 @@
 <<<<<<< HEAD
-azure_client_id = "bc45bb68-c24d-4c28-98c3-bdd7a4449b79"
-azure_client_secret = "7128bf02-d9d6-467d-b372-f52745624a5b"
-azure_tenant_id = "2447cb89-4619-454b-b5c0-de5e16987152"
-azure_subscription_id = "cad0f558-226f-4307-ae2d-e9bdd9929d11"
+azure_client_id = "xxxxxxxx"
+azure_client_secret = "xxxxxxxxxb"
+azure_tenant_id = "2xxxxxxxx2"
+azure_subscription_id = "xxxxxxxxx9d11"
 
 openshift_azure_resource_prefix = "sexyocp"
 openshift_azure_resource_suffix = "bob"
