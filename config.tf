@@ -141,13 +141,13 @@ variable "openshift_azure_default_subdomain" {
 variable "openshift_azure_master_prep_script" {
   type        = "string"
   description = "URL for Master Prep script"
-  default     = "masterPrep.sh"
+  default     = "https://github.com/gjergjidojcegit/terraform-openshift-version1.0/blob/master/scripts/masterPrep.sh"
 }
 
 variable "openshift_azure_node_prep_script" {
   type        = "string"
   description = "URL for Node Prep script"
-  default     = "nodePrep.sh"
+  default     = "https://github.com/gjergjidojcegit/terraform-openshift-version1.0/blob/master/scripts/nodePrep.sh"
 }
 
 variable "openshift_azure_deploy_openshift_script" {
